@@ -41,4 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassoeiro8&show_icons=true&locale=pt-br" alt="lucassoeiro8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassoeiro8&" alt="lucassoeiro8" /></p>
+<img title="Meu desenvolvimento" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=lucassoeiro8&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
+
