@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Lucas Soeiro</h1>
-<h3 align="center">Sou um estudante de T.I/CyberSegurança</h3>
+<h3 align="center">Sou um estudante de T.I/CyberScurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassoeiro8&label=Profile%20views&color=0e75b6&style=flat" alt="lucassoeiro8" /> </p>
 
