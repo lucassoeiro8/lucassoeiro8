@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassoeiro8&label=Profile%20views&color=0e75b6&style=flat" alt="lucassoeiro8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucassoeiro8" alt="lucassoeiro8" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Atualmente estou estudando [Linux](https://github.com/torvalds/linux)
+- 💻 Atualmente estou estudando [Linux](https://github.com/torvalds/linux)
 
-- 🌱Atualmente estou aprendendo **Git / Debian / CyberSecurity**
+- 🌱 Atualmente estou aprendendo **Git / Debian / CyberSecurity**
 
 - 👯 Estou procurando colaborar em **Debian**
 
 - 🤝 Estou procurando ajuda com **Shell Script/Python**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucassoeiro8](https://github.com/lucassoeiro8)
+- 👨‍Todos os meus projetos estão disponíveis em [https://github.com/lucassoeiro8](https://github.com/lucassoeiro8)
 
 - 📝 Eu regularmente escrevo artigos sobre [https://criptoshell.medium.com/](https://criptoshell.medium.com/)
 
@@ -41,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassoeiro8&show_icons=true&locale=en&layout=compact" alt="lucassoeiro8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassoeiro8&show_icons=true&locale=en" alt="lucassoeiro8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassoeiro8&show_icons=true&locale=pt-br" alt="lucassoeiro8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassoeiro8&" alt="lucassoeiro8" /></p>
