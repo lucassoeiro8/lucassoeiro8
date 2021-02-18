@@ -21,7 +21,7 @@
 
 - 📫 Como me encontrar **Email: N3x4m0s@gmail.com Telegram: @d3xt4r**
 
-- 📄 Conheça minhas experiências [Análise de malwares, sniffers de rede, OSINT.](Análise de malwares, sniffers de rede, OSINT.)
+- 📄 Conheça minhas experiências [Análise de malwares, sniffers de rede, OSINT.]
 
 - ⚡ Fato engraçado **Prefiro Linux :p**
 
