@@ -15,9 +15,9 @@
 
 - 🤝 Estou procurando ajuda com **Shell Script/Python**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis at [https://github.com/lucassoeiro8](https://github.com/lucassoeiro8)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucassoeiro8](https://github.com/lucassoeiro8)
 
-- 📝Eu regularmente escrevo artigos sobre [https://criptoshell.medium.com/](https://criptoshell.medium.com/)
+- 📝 Eu regularmente escrevo artigos sobre [https://criptoshell.medium.com/](https://criptoshell.medium.com/)
 
 - 💬 Pergunte-me sobre **Linux, Forense Digital e Criptografia**
 
@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Minhas Conexões:</h3>
 <p align="left">
 <a href="https://medium.com/@criptoshell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@criptoshell" height="30" width="40" /></a>
 </p>
