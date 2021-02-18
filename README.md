@@ -7,7 +7,7 @@
 
 - 💻 Atualmente estou estudando [Linux](https://github.com/torvalds/linux)
 
-- 🌱 Atualmente estou aprendendo **Git / Debian / CyberSecurity**
+- 🌱 Atualmente estou aprendendo **Git / Debian / CyberSecurity / Cloud AWS**
 
 - 👯 Estou procurando colaborar em **Debian**
 
