@@ -15,11 +15,11 @@
 
 - 👨‍Todos os meus projetos estão disponíveis em [https://github.com/lucassoeiro8](https://github.com/lucassoeiro8)
 
-- 📝 Eu regularmente escrevo artigos sobre [https://criptoshell.medium.com/](https://criptoshell.medium.com/)
+- 📝 Eu regularmente escrevo artigos sobre [https://lucassoeiro.medium.com/](https://lucassoeiro.medium.com/)
 
 - 💬 Pergunte-me sobre **Linux, Forense Digital e Criptografia**
 
-- 📫 Como me encontrar **Email: N3x4m0s@gmail.com Telegram: @d3xt4r**
+- 📫 Como me encontrar **Email: lucassoeiro@outlook.com.br Telegram: @d3xt4r**
 
 - 📄 Conheça minhas experiências [Análise de malwares, sniffers de rede, OSINT.]
 
