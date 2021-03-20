@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 Atualmente estou estudando [Linux](https://github.com/torvalds/linux)
+- 💻 Atualmente estou estudando [Linux](https://github.com/torvalds/linux), estou participando do bootcamp da IGTI de [Analista de Cybersecurity](https://www.igti.com.br/custom/bootcamp-analista-cybersecurity/)
 
 - 🌱 Atualmente estou aprendendo **Git / Debian / CyberSecurity / Cloud AWS**
 
 - 👯 Estou procurando colaborar em **Debian**
 
-- 🤝 Estou procurando ajuda com **Shell Script/Python**
+- 🤝 Estou procurando ajuda com **Shell Script / Python**
 
 - 👨‍Todos os meus projetos estão disponíveis em [https://github.com/lucassoeiro8](https://github.com/lucassoeiro8)
 
