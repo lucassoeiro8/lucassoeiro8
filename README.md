@@ -30,7 +30,7 @@
 <p align="left">
 
 
-<a href="https://medium.com/@criptoshell" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@criptoshell" height="40" width="40" /><a href="https://t.me/d3xt4r" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@d3xt4r" height="40" width="40" align="middle" /></a>
+<a href="https://medium.com/@lucassoeiro" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lucassoeiro" height="40" width="40" /><a href="https://t.me/d3xt4r" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@d3xt4r" height="40" width="40" align="middle" /></a>
 
   
 
